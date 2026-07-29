@@ -40,10 +40,10 @@ I'm a Computer Engineering graduate with a strong foundation in **JavaScript, No
 
 ### 📌 Featured Projects
 
-**🚗 Vehicle Performance Evaluation and Analysis Web App** — *Python*
+**🚗 Vehicle Performance Evaluation and Analysis Web App** — 
 Ingests user-uploaded vehicle specs and test data, processes it into structured metrics, and serves interactive graphs and dashboards.
 
-**🌿 Ayurvedic Recommendation Software** — *Python, Data Structures*
+**🌿 Ayurvedic Recommendation Software** — *Data Structures*
 Structures data from Ayurvedic classical texts into a queryable format and recommends drugs/formulations based on disease or pharmacological properties.
 
 **⛅ Weather App** — *JavaScript, OpenWeather API*
