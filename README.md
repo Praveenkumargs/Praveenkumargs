@@ -28,15 +28,6 @@
 
 <br>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkumargs&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumargs&layout=compact&hide_border=true&theme=default" width="35%" />
-</p>
-
-<br>
-
 <p align="center">
 <sub>Currently focused on Full-Stack Developing</sub>
 </p>
