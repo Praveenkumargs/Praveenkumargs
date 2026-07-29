@@ -59,19 +59,6 @@ IoT-based system for automated, remote monitoring of solar power generation over
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Praveenkumargs&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkumargs&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumargs&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 🎓 Education
 
 **B.Tech in Computer Engineering** — Presidency University, Bengaluru (2021–2025)
