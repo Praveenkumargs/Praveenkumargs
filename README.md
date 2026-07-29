@@ -55,8 +55,6 @@ Interactive memory game with dynamic sequence generation and score tracking.
 **☀️ Solar Monitoring System** — *Arduino, IoT*
 IoT-based system for automated, remote monitoring of solar power generation over the internet.
 
-> 💡 *Tip: Pin these repos on your GitHub profile (Profile → Customize your pins) so they show as cards right under this README.*
-
 ---
 
 ### 🎓 Education
