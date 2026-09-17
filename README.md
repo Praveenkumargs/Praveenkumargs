@@ -40,6 +40,9 @@ I'm a Computer Engineering graduate with a strong foundation in **JavaScript, No
 
 ### 📌 Featured Projects
 
+**💻 Lucky Home Decor – Full Stack E-Commerce Website** — 
+A modern full-stack home decor website built with React, Node.js, Express, and PostgreSQL for showcasing curtains, blinds, sofas, and custom interior products. It includes a responsive customer interface, product management, quote requests, and an admin dashboard for managing website content.
+
 **🚗 Vehicle Performance Evaluation and Analysis Web App** — 
 Ingests user-uploaded vehicle specs and test data, processes it into structured metrics, and serves interactive graphs and dashboards.
 
